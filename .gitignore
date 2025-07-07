@@ -137,41 +137,4 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_1
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_2
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_3
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/f_00005a
-local_auth/session-whatsapp-service/Default/Code Cache/js/03a049ea4fb42680_0
-local_auth/session-whatsapp-service/Default/Code Cache/js/898852873d113c62_0
-local_auth/session-whatsapp-service/Default/Code Cache/js/b2ed02110635c561_0
-local_auth/session-whatsapp-service/Default/Code Cache/js/d4fb81ff6b963f25_0
-local_auth/session-whatsapp-service/Default/Code Cache/js/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Code Cache/wasm/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG
-local_auth/session-whatsapp-service/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG.old
-local_auth/session-whatsapp-service/Default/Local Storage/leveldb/LOG
-local_auth/session-whatsapp-service/Default/Local Storage/leveldb/LOG.old
-local_auth/session-whatsapp-service/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/359d58bc-cce5-4149-870e-61439207f94d/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/bdddb0e2-8fce-4acb-a8f6-8d92764eca57/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Service Worker/Database/LOG
-local_auth/session-whatsapp-service/Default/Service Worker/Database/LOG.old
-local_auth/session-whatsapp-service/Default/Service Worker/ScriptCache/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Session Storage/LOG
-local_auth/session-whatsapp-service/Default/Session Storage/LOG.old
-local_auth/session-whatsapp-service/Default/WebStorage/QuotaManager-journal
-local_auth/session-whatsapp-service/DevToolsActivePort
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_0
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_1
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_2
-local_auth/session-whatsapp-service/Default/Cache/Cache_Data/data_3
-local_auth/session-whatsapp-service/Default/Code Cache/js/b2ed02110635c561_0
-local_auth/session-whatsapp-service/Default/Code Cache/js/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Code Cache/wasm/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG
-local_auth/session-whatsapp-service/Default/Local Storage/leveldb/LOG
-local_auth/session-whatsapp-service/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/359d58bc-cce5-4149-870e-61439207f94d/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/bdddb0e2-8fce-4acb-a8f6-8d92764eca57/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Service Worker/Database/LOG
-local_auth/session-whatsapp-service/Default/Service Worker/ScriptCache/index-dir/the-real-index
-local_auth/session-whatsapp-service/Default/Session Storage/LOG
-local_auth/session-whatsapp-service/Default/WebStorage/QuotaManager-journal
+local_auth/session-whatsapp-service/
