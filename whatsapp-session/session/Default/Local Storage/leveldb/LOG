@@ -1,5 +1,0 @@
-2025/05/07-14:20:10.580 20 Creating DB C:\Iskandar Maulana\Project\Netify\Netify\node\whatsapp-session\session\Default\Local Storage\leveldb since it was missing.
-2025/05/07-14:20:10.613 20 Reusing MANIFEST C:\Iskandar Maulana\Project\Netify\Netify\node\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/07-14:20:10.613 20 Recovering log #4
-2025/05/07-14:20:10.614 20 Reusing old log C:\Iskandar Maulana\Project\Netify\Netify\node\whatsapp-session\session\Default\Local Storage\leveldb/000004.log 
-2025/05/07-14:20:10.614 20 Delete type=2 #5

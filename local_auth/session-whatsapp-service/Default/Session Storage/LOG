@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-2025/07/07-15:58:40.377 5068 Reusing MANIFEST C:\Iskandar Maulana\Praktik Kerja Pamapersada Nusantara\Apps\NDMNS-WhatsApp-Service\local_auth\session-whatsapp-service\Default\Session Storage/MANIFEST-000001
-2025/07/07-15:58:40.423 5068 Recovering log #3
-2025/07/07-15:58:40.429 5068 Reusing old log C:\Iskandar Maulana\Praktik Kerja Pamapersada Nusantara\Apps\NDMNS-WhatsApp-Service\local_auth\session-whatsapp-service\Default\Session Storage/000003.log 
-=======
-2025/07/04-15:07:21.128 23b4 Creating DB C:\Iskandar Maulana\Dokumen Praktik Kerja\Project\whatsapp-service\local_auth\session-whatsapp-service\Default\Session Storage since it was missing.
-2025/07/04-15:07:21.161 23b4 Reusing MANIFEST C:\Iskandar Maulana\Dokumen Praktik Kerja\Project\whatsapp-service\local_auth\session-whatsapp-service\Default\Session Storage/MANIFEST-000001
->>>>>>> d5cd7ad146778d4f9ff9a82aee40093ead7a2fc6
